@@ -7,7 +7,7 @@ Liga para ingresar a ver las minutas: https://drive.google.com/drive/folders/11i
 # Project Charter.
 Liga para ingresar a ver el project charter: 
 
-# PMO.
+# Oficina PMO.
 
 ## Misión
 Brindarle a nuestros clientes planes y estrategias efectivas, accesibles y a la medida para poder dar solución a cualquier problema de desarrollo de software y de gestión de tecnologías que sea de su interés.
