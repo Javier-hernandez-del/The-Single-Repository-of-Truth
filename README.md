@@ -7,6 +7,10 @@ Liga para ingresar a ver las minutas: https://drive.google.com/drive/folders/11i
 # Project Charter.
 Liga para ingresar a ver el project charter: 
 
+# WBS.
+* Liga para ver el Diccionario WBS: https://docs.google.com/spreadsheets/d/12DXsczfNrpBcSAgAEW2JgATI3M1D_rSNgF7xwsnyjZk/edit?usp=sharing 
+* Liga para ver el Diagrama WBS: https://drive.google.com/file/d/1ZUchvQ8xWW2J-RHaYq9UpYeZKQ5uUcnU/view?usp=sharing
+
 # Oficina PMO.
 
 ## Misión
