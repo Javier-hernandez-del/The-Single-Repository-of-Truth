@@ -1,31 +1,39 @@
 # The-Single-Repository-of-Truth
 Wiki de Oficina PMO Equipo 1.  TC3004B-TC3005B
 
-# Misión
+# Minutas.
+Liga para ingresar a ver las minutas: https://drive.google.com/drive/folders/11i5-PBW0A-AKkTAqc3xt40uE0TN2Wudg?usp=sharing 
+
+# Project Charter.
+Liga para ingresar a ver el project charter: 
+
+# PMO.
+
+## Misión
 Brindarle a nuestros clientes planes y estrategias efectivas, accesibles y a la medida para poder dar solución a cualquier problema de desarrollo de software y de gestión de tecnologías que sea de su interés.
 
-# Visión
+## Visión
 Ser la mejor empresa de gestión de planes estratégicos para el desarrollo de software para pequeños, medianos y grandes negocios.
 
-# Valores
+## Valores
 La empresa se caracteriza por su honestidad,  perseverancia y responsabilidad de realizar los proyectos en tiempo y forma.
 
-# Nombre e imagen corporativa
+## Nombre e imagen corporativa
 Admin 1984.
 
-# KPIs
+## KPIs
 * Presupuesto.
 * Costos fijos y variables de la empresa.
 * Número de controles de cambio. 
 * Número de errores.
 * Tipo de proyecto.
 
-# Modelo PMO a utilizar
+## Modelo PMO a utilizar
 El modelo PMO para nuestra oficina es Directivo. 
 Este modelo de PMO nos permite una alta gestión de los proyectos, de esta manera, podemos asegurarnos de ofrecer a nuestros clientes un control total de los procesos de desarrollo, brindándoles soluciones a problemáticas que van desde lo más general hasta lo más específico.
 Trabajaremos en conjunto con los clientes de la manera más cercana posible para asegurarnos de satisfacer cada una de sus necesidades. Para ello ejecutaremos planes estratégicos y eficientes diseñados con base en un riguroso análisis de los requerimientos.
 
-# Roles y responsabilidades
+## Roles y responsabilidades
 Generar un plan de trabajo estructurado para la resolución del proyecto y la realización del software pertinente.
 ### Durante la planeación (5 semanas):
 Nombre /
@@ -52,7 +60,7 @@ Desarrollador, Líder del Equipo
 Desarrollador, Diseñador de Interfaz de Usuario
 
 
-# Análisis de los procesos
+## Análisis de los procesos
 ### Inicio
 #### Proceso / Responsable / Resultado
 
@@ -120,7 +128,7 @@ Desarrollador, Diseñador de Interfaz de Usuario
 
 
 
-# Herramientas a utilizar
+## Herramientas a utilizar
 ### Herramientas para comunicación:
 * Slack
 * Zoom
@@ -138,5 +146,5 @@ Desarrollador, Diseñador de Interfaz de Usuario
 * IntelliJ IDE
 * Replit.
 
-# Wiki pública
+## Wiki pública
 Github.
