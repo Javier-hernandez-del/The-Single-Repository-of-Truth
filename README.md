@@ -1,17 +1,17 @@
-# The-Single-Repository-of-Truth
+# The-Single-Repository-of-Truth :computer:
 Wiki de Oficina PMO Equipo 1.  TC3004B-TC3005B
 
-# Minutas.
+# Minutas. :page_facing_up:
 Liga para ingresar a ver las minutas: https://drive.google.com/drive/folders/11i5-PBW0A-AKkTAqc3xt40uE0TN2Wudg?usp=sharing 
 
-# Project Charter.
+# Project Charter. :page_facing_up:
 Liga para ingresar a ver el project charter: 
 
-# WBS.
+# WBS. :dvd:
 * Liga para ver el Diccionario WBS: https://docs.google.com/spreadsheets/d/12DXsczfNrpBcSAgAEW2JgATI3M1D_rSNgF7xwsnyjZk/edit?usp=sharing 
 * Liga para ver el Diagrama WBS: https://drive.google.com/file/d/1ZUchvQ8xWW2J-RHaYq9UpYeZKQ5uUcnU/view?usp=sharing
 
-# Oficina PMO.
+# Oficina PMO. :closed_book:
 
 ## Misión
 Brindarle a nuestros clientes planes y estrategias efectivas, accesibles y a la medida para poder dar solución a cualquier problema de desarrollo de software y de gestión de tecnologías que sea de su interés.
