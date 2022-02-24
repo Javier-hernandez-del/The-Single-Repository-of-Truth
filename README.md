@@ -12,6 +12,7 @@ Liga para ingresar a ver el project charter:
 * Liga para ver el Diagrama WBS: https://drive.google.com/file/d/1ZUchvQ8xWW2J-RHaYq9UpYeZKQ5uUcnU/view?usp=sharing
 
 # Oficina PMO. :closed_book:
+* Liga de acceso para el documento: https://docs.google.com/document/d/17WhC_-Mq4KeKfCDibUzdh6zk3LhEtlz4TCBfpzWYCBw/edit?usp=sharing 
 
 ## Misión
 Brindarle a nuestros clientes planes y estrategias efectivas, accesibles y a la medida para poder dar solución a cualquier problema de desarrollo de software y de gestión de tecnologías que sea de su interés.
