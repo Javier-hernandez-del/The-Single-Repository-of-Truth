@@ -118,6 +118,23 @@ Desarrollador, Diseñador de Interfaz de Usuario
 * Celebrar reuniones de progreso / Todo el equipo de desarrollo / Medir la efectividad del desarrollo para mejorar el desempeño del equipo
 * Utilizar el sistema de autorización de trabajo / Todo el equipo de desarrollo / Evitar en la mayoría de lo posible afectar negativamente el trabajo realizado anteriormente
 
+### Monitoreo y control
+#### Proceso / Responsable / Resultado
+
+* Medir respecto a una base de medición de rendimiento / Todo el equipo de desarrollo / Verificar el avance para continuar o corregir el camino actual de desarrollo
+* Medir según los planes de gestión / Project Manager / Obtenemos una comparación de lo realizado realmente vs lo planeado para mejorar el desempeño
+* Determinar la variaciones y si se justifican con una acción correctiva o un cambio / Todo el equipo de desarrollo / Nos anticipamos a imprevistos y analizamos su impacto para poder tomar una decisión
+* Verificación de alcance / Todo el equipo de desarrollo / Nos permite identificar si llegaremos a la meta del proyecto 
+* Gestión de la configuración / Project Manager / Nos brinda flexibilidad para realizar cambios tanto en el proyecto como en el producto
+* Recomendar cambios, reparación de defectos, acciones preventivas / Todo el equipo de desarrollo / Adquirimos la posibilidad de construir un producto de mayor calidad al prevenir o arreglar defectos de manera rápida
+* Control de cambios integrado / Todo el equipo de desarrollo / Nos permite desarrollar un producto de mayor calidad al verificar los posibles cambios antes de incluirlos  
+* Aprobar cambios, reparación de defectos, acciones preventivas y correctivas / Todo el equipo de desarrollo / Nos asegura la posibilidad de optimizar constantemente el producto
+* Usar registro de errores / Todo el equipo de desarrollo / Podemos documentar errores e imprevistos para ahorrar tiempo en el futuro
+* Facilitar la resolución de conflictos / Project Manager / Nos brinda mayor fluidez y mejor ambiente de desarrollo en el equipo
+* Medir el desempeño de los integrantes del equipo / Todo el equipo de desarrollo / Nos brinda a todo el equipo motivación y oportunidades de detección de áreas de mejora
+* Reporte de desempeño / Todo el equipo de desarrollo / Nos brinda una mejor gestión y control en el desarrollo del producto
+* Administrar contrato / Project Manager / Nos permite verificar si el producto en desarrollo cumple con lo estipulado en el contrato
+
 ### Cierre
 #### Proceso / Responsable / Resultado
 
