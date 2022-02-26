@@ -19,7 +19,7 @@ Wiki de Oficina PMO Equipo 1.  TC3004B-TC3005B
 
 # Oficina PMO. :closed_book:
 * Liga de acceso para el documento: https://docs.google.com/document/d/17WhC_-Mq4KeKfCDibUzdh6zk3LhEtlz4TCBfpzWYCBw/edit?usp=sharing 
-
+![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/admin.png){width='100px'}
 
 ## Misión
 Brindarle a nuestros clientes planes y estrategias efectivas, accesibles y a la medida para poder dar solución a cualquier problema de desarrollo de software y de gestión de tecnologías que sea de su interés.
