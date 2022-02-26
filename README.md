@@ -7,7 +7,7 @@ Wiki de Oficina PMO Equipo 1.  TC3004B-TC3005B
 * Minuta del Jueves 17 de febrero 2022: https://docs.google.com/document/d/1mhkc16CZlZRMvV90hSWvzT5SLgH2RJqB/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true 
 
 # Project Charter. :page_facing_up:
-Liga para ingresar a ver el project charter: 
+* Liga para ingresar a ver el project charter: https://docs.google.com/document/d/1L9hbl6_cv71NMq6kCAe9P9JMhJug5fri/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
 
 # WBS. :dvd:
 * Liga para ver el Diccionario WBS: https://docs.google.com/spreadsheets/d/12DXsczfNrpBcSAgAEW2JgATI3M1D_rSNgF7xwsnyjZk/edit?usp=sharing 
