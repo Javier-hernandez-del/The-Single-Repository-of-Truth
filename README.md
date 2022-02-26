@@ -2,7 +2,8 @@
 Wiki de Oficina PMO Equipo 1.  TC3004B-TC3005B
 
 # Minutas. :page_facing_up:
-Liga para ingresar a ver las minutas: https://drive.google.com/drive/folders/11i5-PBW0A-AKkTAqc3xt40uE0TN2Wudg?usp=sharing 
+Liga para ingresar a ver las minutas desde Drive: https://drive.google.com/drive/folders/11i5-PBW0A-AKkTAqc3xt40uE0TN2Wudg?usp=sharing 
+Minuta del Lunes 14 febrero: 
 
 # Project Charter. :page_facing_up:
 Liga para ingresar a ver el project charter: 
