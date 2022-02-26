@@ -80,11 +80,11 @@ Desarrollador, Diseñador de Interfaz de Usuario
 
 ## Análisis de los procesos
 ### Inicio
-#### Proceso / Responsable / Resultado
+#### Proceso / Responsable / Implementación / Resultado
 
-* Elegir al Project Manager / Todo el equipo de desarrollo / Brindar infraestructura al equipo y proyecto.
-* Determinar la cultura de la empresa y los sistemas existentes / Todo el equipo de desarrollo / Conocer los estándares esperados de la empresa.
-* Dividir el proyecto en fases / Project Manager / Posibilidad de hacer pruebas en los avances.
+* Elegir al Project Manager / Todo el equipo de desarrollo / Todo el equipo decidirá quién será el Project Manager con base en la experiencia de gestión de proyectos de los candidatos / Brindar infraestructura al equipo y proyecto.
+* Determinar la cultura de la empresa y los sistemas existentes / Todo el equipo de desarrollo / Investigar en internet su cultura y conocer sus sistemas existentes mediante entrevistas con los representantes de la empresa / Conocer los estándares esperados de la empresa.
+* Dividir el proyecto en fases / Project Manager / Se dividirá el proyecto en actividades y posteriormente las agrupamos con base en su complejidad / Posibilidad de hacer pruebas en los avances.
 * Identificar inversionistas / Project Manager / Identificar a los stakeholders que pueden generar un impacto positivo en el proyecto.
 * Documentar las necesidades del negocio / Todo el equipo de desarrollo / Determinar con mayor exactitud las actividades por realizar
 * Determinar los objetivos del proyecto / Todo el equipo de desarrollo / Establecer con claridad el resultado esperado del proyecto
