@@ -43,6 +43,16 @@ La empresa se caracteriza por su honestidad,  perseverancia y responsabilidad de
 * Tipo de proyecto.
 
 
+## KPIs (Proyecto)
+* Costo total del proyecto.
+* El valor devengado en cada iteración.
+* Trabajo terminado durante el Sprint.
+* Progreso total del proyecto.
+* Cobertura del código.
+* Cambios y correcciones del código durante el desarrollo del proyecto.
+
+
+
 ## Modelo PMO a utilizar
 El modelo PMO para nuestra oficina es Directivo. 
 Este modelo de PMO nos permite una alta gestión de los proyectos, de esta manera, podemos asegurarnos de ofrecer a nuestros clientes un control total de los procesos de desarrollo, brindándoles soluciones a problemáticas que van desde lo más general hasta lo más específico.
