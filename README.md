@@ -152,21 +152,22 @@ Desarrollador, Diseñador de Interfaz de Usuario
 
 ## Herramientas a utilizar
 ### Herramientas para comunicación:
-* Slack
-* Zoom
-* Whatsapp
-* Email.
+* Slack: Envio de mensajes a los Socio Formadores y Profesores cuando se tengan dudas.
+* Zoom: Hacer reuniones a distancia con los miembros del equipo para hacer trabajos.
+* Whatsapp: Envio de mensajes entre los miembros del equipo.
+* Email: Envio de correo electrónico entre los meimbros del equipo y para los Profesores cuando haya dudas.
 ### Herramientas de gestión:
-* Google Drive
-* Power point
-* Excel
-* Jira Software.
+* Google Drive: Compartición de documentos y archivos entre los miembros del equipo.
+* Power point: Desarrollo de presentaciones de exposición para mostrar avances y enviar preguntas.
+* Excel: Desarrollo del diccionario WBS.
+* Jira Software: Desarrollo de la Base de Datos.
 ### Herramientas de desarrollo:
-* Github
-* Visual Studio
-* Figma
-* IntelliJ IDE
-* Replit.
+* Github: Wiki pública.
+* Visual Studio: Herramienta para programación en distintos lenguajes.
+* Figma: Herramienta para desarrollo de Mockups.
+* IntelliJ IDE:
+* Replit:
+* Visual Paradigm:
 
 ## Wiki pública
 Github.
