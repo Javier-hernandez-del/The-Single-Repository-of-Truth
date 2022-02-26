@@ -168,7 +168,7 @@ Desarrollador, Diseñador de Interfaz de Usuario
 * Slack: Envio de mensajes a los Socio Formadores y Profesores cuando se tengan dudas.
 * Zoom: Hacer reuniones a distancia con los miembros del equipo para hacer trabajos.
 * Whatsapp: Envio de mensajes entre los miembros del equipo.
-* Email: Envio de correo electrónico entre los meimbros del equipo y para los Profesores cuando haya dudas.
+* Email: Envio de correo electrónico entre los miembros del equipo y para los Profesores cuando haya dudas.
 ### Herramientas de gestión:
 * Google Drive: Compartición de documentos y archivos entre los miembros del equipo.
 * Power point: Desarrollo de presentaciones de exposición para mostrar avances y enviar preguntas.
