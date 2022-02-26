@@ -18,7 +18,6 @@ Wiki de Oficina PMO Equipo 1.  TC3004B-TC3005B
 
 
 # Oficina PMO. :closed_book:
-![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/admin.png)
 * Liga de acceso para el documento: https://docs.google.com/document/d/17WhC_-Mq4KeKfCDibUzdh6zk3LhEtlz4TCBfpzWYCBw/edit?usp=sharing 
 
 ## Misión
@@ -33,7 +32,7 @@ La empresa se caracteriza por su honestidad,  perseverancia y responsabilidad de
 
 
 ## Nombre e imagen corporativa
-Admin 1984.
+![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/admin.png)
 
 
 ## KPIs
