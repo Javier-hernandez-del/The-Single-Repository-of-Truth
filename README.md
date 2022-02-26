@@ -1,20 +1,25 @@
 # The-Single-Repository-of-Truth :computer:
 Wiki de Oficina PMO Equipo 1.  TC3004B-TC3005B
 
+
 # Minutas. :page_facing_up:
 * Liga para ingresar a ver las minutas desde Drive: https://drive.google.com/drive/folders/11i5-PBW0A-AKkTAqc3xt40uE0TN2Wudg?usp=sharing 
 * Minuta del Lunes 14 de febrero 2022: https://docs.google.com/document/d/1GhiJTM9-YGMIwKy4U-A7dhjfR6uyiPHJ/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
 * Minuta del Jueves 17 de febrero 2022: https://docs.google.com/document/d/1mhkc16CZlZRMvV90hSWvzT5SLgH2RJqB/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true 
 
+
 # Project Charter. :page_facing_up:
 * Liga para ingresar a ver el project charter: https://docs.google.com/document/d/1L9hbl6_cv71NMq6kCAe9P9JMhJug5fri/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
+
 
 # WBS. :dvd:
 * Liga para ver el Diccionario WBS: https://docs.google.com/spreadsheets/d/12DXsczfNrpBcSAgAEW2JgATI3M1D_rSNgF7xwsnyjZk/edit?usp=sharing 
 * Liga para ver el Diagrama WBS: https://drive.google.com/file/d/1ZUchvQ8xWW2J-RHaYq9UpYeZKQ5uUcnU/view?usp=sharing
 
+
 # Oficina PMO. :closed_book:
 * Liga de acceso para el documento: https://docs.google.com/document/d/17WhC_-Mq4KeKfCDibUzdh6zk3LhEtlz4TCBfpzWYCBw/edit?usp=sharing 
+
 
 ## Misión
 Brindarle a nuestros clientes planes y estrategias efectivas, accesibles y a la medida para poder dar solución a cualquier problema de desarrollo de software y de gestión de tecnologías que sea de su interés.
@@ -22,11 +27,14 @@ Brindarle a nuestros clientes planes y estrategias efectivas, accesibles y a la 
 ## Visión
 Ser la mejor empresa de gestión de planes estratégicos para el desarrollo de software para pequeños, medianos y grandes negocios.
 
+
 ## Valores
 La empresa se caracteriza por su honestidad,  perseverancia y responsabilidad de realizar los proyectos en tiempo y forma.
 
+
 ## Nombre e imagen corporativa
 Admin 1984.
+
 
 ## KPIs
 * Presupuesto.
@@ -35,10 +43,13 @@ Admin 1984.
 * Número de errores.
 * Tipo de proyecto.
 
+
 ## Modelo PMO a utilizar
 El modelo PMO para nuestra oficina es Directivo. 
 Este modelo de PMO nos permite una alta gestión de los proyectos, de esta manera, podemos asegurarnos de ofrecer a nuestros clientes un control total de los procesos de desarrollo, brindándoles soluciones a problemáticas que van desde lo más general hasta lo más específico.
 Trabajaremos en conjunto con los clientes de la manera más cercana posible para asegurarnos de satisfacer cada una de sus necesidades. Para ello ejecutaremos planes estratégicos y eficientes diseñados con base en un riguroso análisis de los requerimientos.
+
+
 
 ## Roles y responsabilidades
 Generar un plan de trabajo estructurado para la resolución del proyecto y la realización del software pertinente.
@@ -65,6 +76,7 @@ Desarrollador, Project Manager
 Desarrollador, Líder del Equipo
 * Jesús Javier Hernández Delgado /
 Desarrollador, Diseñador de Interfaz de Usuario
+
 
 
 ## Análisis de los procesos
@@ -162,14 +174,16 @@ Desarrollador, Diseñador de Interfaz de Usuario
 * Google Drive: Compartición de documentos y archivos entre los miembros del equipo.
 * Power point: Desarrollo de presentaciones de exposición para mostrar avances y enviar preguntas.
 * Excel: Desarrollo del diccionario WBS.
-* Jira Software: Desarrollo de la Base de Datos.
+* Jira Software: Herramienta para la administración de tareas de proyectos.
 ### Herramientas de desarrollo:
 * Github: Wiki pública.
-* Visual Studio: Herramienta para programación en distintos lenguajes.
+* Visual Studio: Herramienta para programación en distintos lenguajes, especialmente en C++ y C#.
 * Figma: Herramienta para desarrollo de Mockups.
 * IntelliJ IDEA: Herramienta para programación en lenguaje Java. 
 * Replit: Herramienta electrónica para programación en distintos lenguajes.
 * Visual Paradigm: Herramienta para el desarrollo de diagramas AS_IS y TO_BE.
+
+
 
 ## Wiki pública
 Github.
