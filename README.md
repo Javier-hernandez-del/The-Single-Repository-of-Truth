@@ -63,28 +63,18 @@ Trabajaremos en conjunto con los clientes de la manera más cercana posible para
 ## Roles y responsabilidades
 Generar un plan de trabajo estructurado para la resolución del proyecto y la realización del software pertinente.
 ### Durante la planeación (5 semanas):
-Nombre /
-Rol
-* Santiago Orozco Quintero /
-Analista de Requerimientos
-* Luis Enrique Bojórquez Almazán /
-Project Manager
-* Diego Enrique Manzanárez Velázquez /
-Líder del Equipo
-* Jesús Javier Hernández Delgado /
-Diseñador de Interfaz de Usuario
+Nombre / Rol / Responsabilidades
+* Santiago Orozco Quintero / Analista de Requerimientos / -Encargado de convertir las necesidades del cliente en requerimientos, -Identificación y seccionamiento de requerimientos en funcionales y no funcionales, -Identificación de riesgos en la WBS, -Redacción de la misión, valor y diseño del logo de la oficina PMO.
+* Luis Enrique Bojórquez Almazán / Project Manager / -Encargado de estructurar el proyecto, -Dar enfoque a los objetivos con base en las necesidades del cliente, -Diseño de la WBS, -Priorizar los procesos en órden jerárquico.
+* Diego Enrique Manzanárez Velázquez / Líder del Equipo / -Encargado de dar infraestructura y orden al equipo, -Diseño del diccionario del WBS, -Definir la implementación y resultados de los procesos , -Identificación y redacción de los supuestos,  dependencias y futuras optimizaciones en la SRS.
+* Jesús Javier Hernández Delgado / Diseñador de Interfaz de Usuario / Actualización de la Wiki en Github, -Redacción de restricciones en la SRS, -Control de repositorios y herramientas para el trabajo en equipo, -Responsable de diseñar el front end de la aplicación web.
 
 ### Durante el desarrollo del proyecto (10 semanas): 
-Nombre /
-Rol
-* Santiago Orozco Quintero /
-Desarrollador, Analista de Requerimientos
-* Luis Enrique Bojórquez Almazán /
-Desarrollador, Project Manager
-* Diego Enrique Manzanárez Velázquez /
-Desarrollador, Líder del Equipo
-* Jesús Javier Hernández Delgado /
-Desarrollador, Diseñador de Interfaz de Usuario
+Nombre / Rol / Responsabilidades
+* Santiago Orozco Quintero / Desarrollador, Analista de Requerimientos / Encargado de diseñar y codificar la base de datos.
+* Luis Enrique Bojórquez Almazán / Desarrollador, Project Manager / Verificar que el desarrollo esté acorde con la calendarización.
+* Diego Enrique Manzanárez Velázquez / Desarrollador, Líder del Equipo / Encargado de desarrollar el backend de la aplicación.
+* Jesús Javier Hernández Delgado / Desarrollador, Diseñador de Interfaz de Usuario / Encargado de desarrollar el frontend de la aplicación.
 
 
 
