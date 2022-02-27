@@ -14,7 +14,7 @@ Wiki de Oficina PMO Equipo 1.  TC3004B-TC3005B
 
 # WBS. :dvd:
 * Liga para ver el Diccionario WBS: https://docs.google.com/spreadsheets/d/12DXsczfNrpBcSAgAEW2JgATI3M1D_rSNgF7xwsnyjZk/edit?usp=sharing 
-* Liga para ver el Diagrama WBS: https://drive.google.com/file/d/1ZUchvQ8xWW2J-RHaYq9UpYeZKQ5uUcnU/view?usp=sharing
+* Liga para ver el Diagrama WBS (Debe abrirse desde la aplicación diagrams.net): https://drive.google.com/file/d/1ZUchvQ8xWW2J-RHaYq9UpYeZKQ5uUcnU/view?usp=sharing
 
 
 # Oficina PMO. :closed_book:
