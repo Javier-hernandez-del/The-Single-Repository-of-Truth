@@ -71,10 +71,10 @@ Nombre / Rol / Responsabilidades
 
 ### Durante el desarrollo del proyecto (10 semanas): 
 Nombre / Rol / Responsabilidades
-* Santiago Orozco Quintero / Desarrollador, Analista de Requerimientos / Encargado de diseñar y codificar la base de datos.
-* Luis Enrique Bojórquez Almazán / Desarrollador, Project Manager / Verificar que el desarrollo esté acorde con la calendarización.
-* Diego Enrique Manzanárez Velázquez / Desarrollador, Líder del Equipo / Encargado de desarrollar el backend de la aplicación.
-* Jesús Javier Hernández Delgado / Desarrollador, Diseñador de Interfaz de Usuario / Encargado de desarrollar el frontend de la aplicación.
+* Santiago Orozco Quintero / Desarrollador, Analista de Requerimientos / -Encargado de diseñar y codificar la base de datos, -Implementar la herramienta para grabar los keystrokes de los agentes.
+* Luis Enrique Bojórquez Almazán / Desarrollador, Project Manager / -Verificar que el desarrollo esté acorde con la calendarización, -Implementar los menús de navegación de los agentes, supervisores y managers.
+* Diego Enrique Manzanárez Velázquez / Desarrollador, Líder del Equipo / -Encargado de desarrollar el backend de la aplicación, -Implementar la sección de estadísticas de los agentes.
+* Jesús Javier Hernández Delgado / Desarrollador, Diseñador de Interfaz de Usuario / -Encargado de desarrollar el frontend de la aplicación, Implementar el login jerárquico (acorde con los diferentes usuarios de la aplicación).
 
 
 
