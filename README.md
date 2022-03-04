@@ -6,6 +6,7 @@ Wiki de Oficina PMO Equipo 1.  TC3004B-TC3005B
 * Liga para ingresar a ver las minutas desde Drive: https://drive.google.com/drive/folders/11i5-PBW0A-AKkTAqc3xt40uE0TN2Wudg?usp=sharing 
 * Minuta del Lunes 14 de febrero 2022: https://docs.google.com/document/d/1GhiJTM9-YGMIwKy4U-A7dhjfR6uyiPHJ/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
 * Minuta del Jueves 17 de febrero 2022: https://docs.google.com/document/d/1mhkc16CZlZRMvV90hSWvzT5SLgH2RJqB/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true 
+* Minuta del Jueves 3 de marzo 2022: https://docs.google.com/document/d/1HmdSmDOGoGcyCTYgNBgWknjd7VMpzFtV/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
 
 
 # Project Charter. :page_facing_up:
