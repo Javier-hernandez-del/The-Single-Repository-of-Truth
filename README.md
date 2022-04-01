@@ -13,6 +13,7 @@ Wiki de Oficina PMO Equipo 1.  TC3004B-TC3005B
 # Project Charter. :page_facing_up:
 * Liga para ingresar a ver el project charter: https://docs.google.com/document/d/1L9hbl6_cv71NMq6kCAe9P9JMhJug5fri/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
 
+
 # Business Case. 📃
 * Liga para ver el business case: https://docs.google.com/document/d/1ZfO802vyjvDZDEaoowwQAeqkmFzV9Csi/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
 
@@ -20,6 +21,16 @@ Wiki de Oficina PMO Equipo 1.  TC3004B-TC3005B
 # WBS. :dvd:
 * Liga para ver el Diccionario WBS: https://docs.google.com/spreadsheets/d/12DXsczfNrpBcSAgAEW2JgATI3M1D_rSNgF7xwsnyjZk/edit?usp=sharing 
 * Liga para ver el Diagrama WBS (Debe abrirse desde la aplicación diagrams.net): https://drive.google.com/file/d/1ZUchvQ8xWW2J-RHaYq9UpYeZKQ5uUcnU/view?usp=sharing
+
+
+# Timelog. :watch:
+* Estándar de calidad de software a usar:
+* Timelogs individuales: 
+* Periodicidad del timelog:
+
+
+# Defectlog. :date:
+* Forma en que se llevará el registro de defectos: 
 
 
 # Oficina PMO. :closed_book:
