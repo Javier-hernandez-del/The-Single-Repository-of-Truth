@@ -27,10 +27,13 @@ Wiki de Oficina PMO Equipo 1.  TC3004B-TC3005B
 * Estándar de calidad de software a usar:
 * Timelogs individuales: 
 * Periodicidad del timelog:
+![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C16.png)
+![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C14.png)
 
 
 # Defectlog. :date:
 * Forma en que se llevará el registro de defectos: 
+![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C18.png)
 
 
 # Oficina PMO. :closed_book:
