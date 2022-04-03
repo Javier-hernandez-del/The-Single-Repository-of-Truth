@@ -3,41 +3,42 @@ Wiki de Oficina PMO Equipo 1.  TC3004B-TC3005B
 
 
 # Minutas. :page_facing_up:
-* Liga para ingresar a ver las minutas desde Drive: https://drive.google.com/drive/folders/11i5-PBW0A-AKkTAqc3xt40uE0TN2Wudg?usp=sharing 
-* Minuta del Lunes 14 de febrero 2022: https://docs.google.com/document/d/1GhiJTM9-YGMIwKy4U-A7dhjfR6uyiPHJ/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
-* Minuta del Jueves 17 de febrero 2022: https://docs.google.com/document/d/1mhkc16CZlZRMvV90hSWvzT5SLgH2RJqB/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true 
-* Minuta del Jueves 3 de marzo 2022: https://docs.google.com/document/d/1HmdSmDOGoGcyCTYgNBgWknjd7VMpzFtV/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
-* Minuta del Jueves 10 de marzo 2022: https://docs.google.com/document/d/1-gB-XKY4rg4vuq01eAIqhS9YIC0s5pLH/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
+1. **Liga para ingresar a ver las minutas desde Drive:** https://drive.google.com/drive/folders/11i5-PBW0A-AKkTAqc3xt40uE0TN2Wudg?usp=sharing 
+2. **Minuta del Lunes 14 de febrero 2022:** https://docs.google.com/document/d/1GhiJTM9-YGMIwKy4U-A7dhjfR6uyiPHJ/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
+3. **Minuta del Jueves 17 de febrero 2022:** https://docs.google.com/document/d/1mhkc16CZlZRMvV90hSWvzT5SLgH2RJqB/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true 
+4. **Minuta del Jueves 3 de marzo 2022:** https://docs.google.com/document/d/1HmdSmDOGoGcyCTYgNBgWknjd7VMpzFtV/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
+5. **Minuta del Jueves 10 de marzo 2022:** https://docs.google.com/document/d/1-gB-XKY4rg4vuq01eAIqhS9YIC0s5pLH/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
 
 
 # Project Charter. :page_facing_up:
-* Liga para ingresar a ver el project charter: https://docs.google.com/document/d/1L9hbl6_cv71NMq6kCAe9P9JMhJug5fri/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
+* **Liga para ingresar a ver el project charter:** https://docs.google.com/document/d/1L9hbl6_cv71NMq6kCAe9P9JMhJug5fri/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
 
 
 # Business Case. 📃
-* Liga para ver el business case: https://docs.google.com/document/d/1ZfO802vyjvDZDEaoowwQAeqkmFzV9Csi/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
+* **Liga para ver el business case:** https://docs.google.com/document/d/1ZfO802vyjvDZDEaoowwQAeqkmFzV9Csi/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
 
 
 # WBS. :dvd:
-* Liga para ver el Diccionario WBS: https://docs.google.com/spreadsheets/d/12DXsczfNrpBcSAgAEW2JgATI3M1D_rSNgF7xwsnyjZk/edit?usp=sharing 
-* Liga para ver el Diagrama WBS (Debe abrirse desde la aplicación diagrams.net): https://drive.google.com/file/d/1ZUchvQ8xWW2J-RHaYq9UpYeZKQ5uUcnU/view?usp=sharing
+* **Liga para ver el Diccionario WBS:** https://docs.google.com/spreadsheets/d/12DXsczfNrpBcSAgAEW2JgATI3M1D_rSNgF7xwsnyjZk/edit?usp=sharing 
+* **Liga para ver el Diagrama WBS (Debe abrirse desde la aplicación diagrams.net):** https://drive.google.com/file/d/1ZUchvQ8xWW2J-RHaYq9UpYeZKQ5uUcnU/view?usp=sharing
 
 
 # Timelog. :watch:
-* Estándar de calidad de software a usar:
-* Timelogs individuales: 
-* Periodicidad del timelog:
-![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C16.png)
-![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C14.png)
+1. **Estándar de calidad de software a usar:** Llevar un registro de las actividades realizadas y los tiempos que estas mismas nos tomaron, esto con el fin de analizar el progreso que se lleva de las actividades, identificar posibles áreas de mejora y para poder presentar al cliente o a algún superior la documentación de las tareas hechas por el equipo. Para esto implementaremos un modelo de plantilla que se alinea con las especificaciones del PSP, ya que este se enfoca en los ingenieros de software; como individuos consideramos que es la mejor alternativa para poder llevar esta notación para que cada uno se haga responsable de sus tiempos. 
+2. **Periodicidad del timelog:** La periodicidad con que se llevará a cabo este registro será de cada tercer día en caso de que existan muchas actividades o cada semana en caso contrario, a pesar de esto se llevará diariamente un pseudo registro de las actividades con el fin de posteriormente poner esa información en un reporte formal. Para poder lograr esto de manera eficiente se creó un documento en línea donde cada integrante puede ir registrando su información conforme vaya avanzando en sus actividades o una vez que las haya terminado, una vez hecho esto se buscará reunirse con un representante de cada equipo para poder integrar un timelog global del proyecto. 
+3. Las plantillas que se usarán para hacer el Timelog serán las correspondientes a los scripts C16 y C14 en donde, de acuerdo a cada fase que se esté desarrollando durante todo el proyecto, cada integrante del equipo se turnará para llenar cada apartado, y se tendrán archivos compartidos para hacer la actividad sin problemas.
+* ![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C16.png)
+* ![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C14.png)
 
 
 # Defectlog. :date:
-* Forma en que se llevará el registro de defectos: 
-![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C18.png)
+1. **Forma en que se llevará el registro de defectos:** Para registrar los defectos del proyecto se implementará un esquema similar en donde se realizarán diversas pruebas en ámbitos variados de los entregables para buscar cualquier problema que pudieran tener, una vez que se encuentre se registra la información de este mismo y se procederá a arreglarlos, una vez que ya se hayan encontrado y corregido todos los errores, esta información se va a capturar en la plantilla referente a los errores. Debido a que somos un equipo reducido se trabajará de manera simultánea en diversas pruebas cada vez que un miembro del equipo identifique un problema lo primero que debe hacer es reportarlo por alguno de los canales de comunicación a los demás integrantes de modo que no se hagan pruebas redundantes y de que todos estemos enterados de los cambios que se deben realizar.
+2. La plantilla a usar corresponde al script C18 en donde, al igual que con el Timelog, se tendrá un archivo compartido en donde cada integrante se turnará para registrar el error y cuanto tiempo se tomó en corregirlo en cada fase importante del proyecto. Todo esto se realizará con la misma periodicidad que con el Timelog, para no perder el enfoque y olvidar corregir un error importante. 
+* ![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C18.png)
 
 
 # Oficina PMO. :closed_book:
-* Liga de acceso para el documento: https://docs.google.com/document/d/17WhC_-Mq4KeKfCDibUzdh6zk3LhEtlz4TCBfpzWYCBw/edit?usp=sharing 
+* **Liga de acceso para el documento:** https://docs.google.com/document/d/17WhC_-Mq4KeKfCDibUzdh6zk3LhEtlz4TCBfpzWYCBw/edit?usp=sharing 
 
 ## Misión
 Brindarle a nuestros clientes planes y estrategias efectivas, accesibles y a la medida para poder dar solución a cualquier problema de desarrollo de software y de gestión de tecnologías que sea de su interés.
