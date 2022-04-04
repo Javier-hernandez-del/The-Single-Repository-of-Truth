@@ -14,7 +14,7 @@ Wiki de Oficina PMO Equipo 1. TC3005B-Módulo 5: Calidad de Software.
 * ![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C18.png)
 ***
 
-
+### Wiki de Oficina PMO Equipo 1. TC3004B.
 # Minutas. :page_facing_up:
 1. **Liga para ingresar a ver las minutas desde Drive:** https://drive.google.com/drive/folders/11i5-PBW0A-AKkTAqc3xt40uE0TN2Wudg?usp=sharing 
 2. **Minuta del Lunes 14 de febrero 2022:** https://docs.google.com/document/d/1GhiJTM9-YGMIwKy4U-A7dhjfR6uyiPHJ/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
