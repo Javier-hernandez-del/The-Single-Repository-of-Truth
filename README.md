@@ -1,6 +1,9 @@
 # The-Single-Repository-of-Truth :computer:
 Wiki de Oficina PMO Equipo 1. TC3005B-Módulo 5: Calidad de Software.
 
+## Ciclo 0: Estrategia de aplicación del Timelog y Defectlog.
+* **Documento de ciclo 0 módulo 5:** https://docs.google.com/document/d/1DegfMmL_UHvS87ZEXjHIrDZPXz3r_EZBMBMFDRv_q6M/edit?usp=sharing
+
 # Timelog. :watch:
 1. **Estándar de calidad de software a usar:** Llevar un registro de las actividades realizadas y los tiempos que estas mismas nos tomaron, esto con el fin de analizar el progreso que se lleva de las actividades, identificar posibles áreas de mejora y para poder presentar al cliente o a algún superior la documentación de las tareas hechas por el equipo. Para esto implementaremos un modelo de plantilla que se alinea con las especificaciones del PSP, ya que este se enfoca en los ingenieros de software; como individuos consideramos que es la mejor alternativa para poder llevar esta notación para que cada uno se haga responsable de sus tiempos. 
 2. **Periodicidad del timelog:** La periodicidad con que se llevará a cabo este registro será de cada tercer día en caso de que existan muchas actividades o cada semana en caso contrario, a pesar de esto se llevará diariamente un pseudo registro de las actividades con el fin de posteriormente poner esa información en un reporte formal. Para poder lograr esto de manera eficiente se creó un documento en línea donde cada integrante puede ir registrando su información conforme vaya avanzando en sus actividades o una vez que las haya terminado, una vez hecho esto se buscará reunirse con un representante de cada equipo para poder integrar un timelog global del proyecto. 
@@ -13,7 +16,9 @@ Wiki de Oficina PMO Equipo 1. TC3005B-Módulo 5: Calidad de Software.
 ![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C14.png)
 ![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C18.png)
 
-* **Documento de ciclo 0 módulo 5:** https://docs.google.com/document/d/1DegfMmL_UHvS87ZEXjHIrDZPXz3r_EZBMBMFDRv_q6M/edit?usp=sharing
+## Ciclo 1: Timelog y Defectlog, fase de requerimientos y análisis.
+* **Scripts**: 
+
 ***
 
 ### Wiki de Oficina PMO Equipo 1. TC3004B.
