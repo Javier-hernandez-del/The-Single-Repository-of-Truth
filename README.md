@@ -3,6 +3,7 @@ Wiki de Oficina PMO Equipo 1. TC3005B-Módulo 5: Calidad de Software.
 
 ## Ciclo 0: Estrategia de aplicación del Timelog y Defectlog.
 * **Documento de ciclo 0 módulo 5:** https://docs.google.com/document/d/1DegfMmL_UHvS87ZEXjHIrDZPXz3r_EZBMBMFDRv_q6M/edit?usp=sharing
+* **Entregable ciclo 0**: https://docs.google.com/document/d/1J583VspKoS1ZukFXJXK5nEMJ4slq8INGpsJZIGWousI/edit?usp=sharing
 
 # Timelog. :watch:
 1. **Estándar de calidad de software a usar:** Llevar un registro de las actividades realizadas y los tiempos que estas mismas nos tomaron, esto con el fin de analizar el progreso que se lleva de las actividades, identificar posibles áreas de mejora y para poder presentar al cliente o a algún superior la documentación de las tareas hechas por el equipo. Para esto implementaremos un modelo de plantilla que se alinea con las especificaciones del PSP, ya que este se enfoca en los ingenieros de software; como individuos consideramos que es la mejor alternativa para poder llevar esta notación para que cada uno se haga responsable de sus tiempos. 
