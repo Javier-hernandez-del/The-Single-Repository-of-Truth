@@ -19,6 +19,7 @@ Wiki de Oficina PMO Equipo 1. TC3005B-Módulo 5: Calidad de Software.
 
 ## Ciclo 1: Timelog y Defectlog, fase de requerimientos y análisis.
 * **Scripts generales**: https://docs.google.com/spreadsheets/d/1GlicRxNC1fJEl_RDkhwZf9oBmx_uO73Z/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
+* **Entregable ciclo 1**: https://docs.google.com/document/d/19ImOvHIXCb-w7lbXMlFzHMCn0edACrpm2N5XwwqE3qg/edit?usp=sharing
 
 ***
 
