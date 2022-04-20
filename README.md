@@ -2,24 +2,13 @@
 Wiki de Oficina PMO Equipo 1. TC3005B-Módulo 5: Calidad de Software.
 
 ## Ciclo 0: Estrategia de aplicación del Timelog y Defectlog.
-* **Documento de ciclo 0 módulo 5:** https://docs.google.com/document/d/1DegfMmL_UHvS87ZEXjHIrDZPXz3r_EZBMBMFDRv_q6M/edit?usp=sharing
-* **Entregable ciclo 0**: https://docs.google.com/document/d/1J583VspKoS1ZukFXJXK5nEMJ4slq8INGpsJZIGWousI/edit?usp=sharing
+* **Documento de ciclo 0 módulo 5:** [Documento](https://drive.google.com/file/d/1jBSfU6U6oLCAgAQW2XQc_xEgWSflBtGv/view?usp=sharing)
 
-# Timelog. :watch:
-1. **Estándar de calidad de software a usar:** Llevar un registro de las actividades realizadas y los tiempos que estas mismas nos tomaron, esto con el fin de analizar el progreso que se lleva de las actividades, identificar posibles áreas de mejora y para poder presentar al cliente o a algún superior la documentación de las tareas hechas por el equipo. Para esto implementaremos un modelo de plantilla que se alinea con las especificaciones del PSP, ya que este se enfoca en los ingenieros de software; como individuos consideramos que es la mejor alternativa para poder llevar esta notación para que cada uno se haga responsable de sus tiempos. 
-2. **Periodicidad del timelog:** La periodicidad con que se llevará a cabo este registro será de cada tercer día en caso de que existan muchas actividades o cada semana en caso contrario, a pesar de esto se llevará diariamente un pseudo registro de las actividades con el fin de posteriormente poner esa información en un reporte formal. Para poder lograr esto de manera eficiente se creó un documento en línea donde cada integrante puede ir registrando su información conforme vaya avanzando en sus actividades o una vez que las haya terminado, una vez hecho esto se buscará reunirse con un representante de cada equipo para poder integrar un timelog global del proyecto. 
-3. La plantilla que se usará para hacer el Timelog será la correspondiente al script C16 en donde, de acuerdo a cada fase que se esté desarrollando durante todo el proyecto, cada integrante del equipo se turnará para llenar cada apartado, y se tendrán archivos compartidos para hacer la actividad sin problemas.
-![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C16.png)
-
-# Defectlog. :date:
-1. **Forma en que se llevará el registro de defectos:** Para registrar los defectos del proyecto se implementará un esquema similar en donde se realizarán diversas pruebas en ámbitos variados de los entregables para buscar cualquier problema que pudieran tener, una vez que se encuentre se registra la información de este mismo y se procederá a arreglarlos, una vez que ya se hayan encontrado y corregido todos los errores, esta información se va a capturar en la plantilla referente a los errores. Debido a que somos un equipo reducido se trabajará de manera simultánea en diversas pruebas cada vez que un miembro del equipo identifique un problema lo primero que debe hacer es reportarlo por alguno de los canales de comunicación a los demás integrantes de modo que no se hagan pruebas redundantes y de que todos estemos enterados de los cambios que se deben realizar.
-2. Las plantillas a usar corresponden a los scripts C14 y C18 en donde, al igual que con el Timelog, se tendrá un archivo compartido en donde cada integrante se turnará para registrar el error y cuanto tiempo se tomó en corregirlo en cada fase importante del proyecto. Todo esto se realizará con la misma periodicidad que con el Timelog, para no perder el enfoque y olvidar corregir un error importante. 
-![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C14.png)
-![](https://raw.githubusercontent.com/Javier-hernandez-del/The-Single-Repository-of-Truth/main/Imagen%20corporativa/C18.png)
 
 ## Ciclo 1: Timelog y Defectlog, fase de requerimientos y análisis.
-* **Scripts generales**: https://docs.google.com/spreadsheets/d/1GlicRxNC1fJEl_RDkhwZf9oBmx_uO73Z/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true
-* **Entregable ciclo 1**: https://docs.google.com/document/d/19ImOvHIXCb-w7lbXMlFzHMCn0edACrpm2N5XwwqE3qg/edit?usp=sharing
+* **Scripts generales**: [Scripts individuales con las fases](https://docs.google.com/spreadsheets/d/1GlicRxNC1fJEl_RDkhwZf9oBmx_uO73Z/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
+* **Fase de diseño**. Entrar al link anterior.
+* **Fase de análisis y requerimientos**. Buscar en los apartados principales.
 
 ***
 
