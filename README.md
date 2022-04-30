@@ -15,6 +15,9 @@ Wiki de Oficina PMO Equipo 1. TC3005B-Módulo 5: Calidad de Software.
 * **Scripts generales**: [Scripts individuales](https://docs.google.com/spreadsheets/d/1GlicRxNC1fJEl_RDkhwZf9oBmx_uO73Z/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
 * **Fase de diseño del módulo asignado (Front 2)**: Entrar al link anterior y buscar las definidas como "Fase de Diseño (módulo asignado)". 
 
+## Ciclo 2: V&V: Checklist de identificación de defectos de la fase de requerimientos, diseño y codificación.
+* **Script general**: [Script del equipo] ()
+
 ***
 
 ### Wiki de Oficina PMO Equipo 1. TC3004B.
