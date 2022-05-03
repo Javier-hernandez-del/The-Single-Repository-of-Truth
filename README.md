@@ -9,14 +9,17 @@ Wiki de Oficina PMO Equipo 1. TC3005B-Módulo 5: Calidad de Software.
 * **Scripts generales**: [Scripts individuales con las fases](https://docs.google.com/spreadsheets/d/1GlicRxNC1fJEl_RDkhwZf9oBmx_uO73Z/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
 * **Fase de diseño**. Entrar al link anterior y buscar las definidas como "Fase de Diseño".
 * **Fase de análisis y requerimientos**. Buscar en los apartados principales o igualmente en el link anterior.
+* **Script grupal**: [Script grupal](https://docs.google.com/spreadsheets/d/1hWbxAlymRXqjqXBUOX3mlR4aJVNtFATCKl4-E4fMpWc/edit?usp=sharing)
 
 
 ## Ciclo 2: Timelog y Defectlog de la fase de diseño del módulo asignado.
 * **Scripts generales**: [Scripts individuales](https://docs.google.com/spreadsheets/d/1GlicRxNC1fJEl_RDkhwZf9oBmx_uO73Z/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
-* **Fase de diseño del módulo asignado (Front 2)**: Entrar al link anterior y buscar las definidas como "Fase de Diseño (módulo asignado)". 
+* **Fase de diseño del módulo asignado (Front 2)**: Entrar al link anterior y buscar las definidas como "Fase de Diseño (módulo asignado)".
+* **Script grupal**: [Script grupal](https://docs.google.com/spreadsheets/d/1hWbxAlymRXqjqXBUOX3mlR4aJVNtFATCKl4-E4fMpWc/edit?usp=sharing) 
+* Buscar en la hoja correspondiente para acceder al script C16 y C14 grupal.
 
 ## Ciclo 2: V&V: Checklist de identificación de defectos de la fase de requerimientos, diseño y codificación.
-* **Script general**: [Script del equipo] ()
+* **Checklist general**: [Checklist del equipo](https://docs.google.com/spreadsheets/d/1BFdZFbtmm3tEJCWilXoWXEGytF_pr7pE/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
 
 ***
 
