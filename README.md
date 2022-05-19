@@ -21,6 +21,11 @@ Wiki de Oficina PMO Equipo 1. TC3005B-Módulo 5: Calidad de Software.
 ## Ciclo 2: V&V: Checklist de identificación de defectos de la fase de requerimientos, diseño y codificación.
 * **Checklist general**: [Checklist del equipo](https://docs.google.com/spreadsheets/d/1BFdZFbtmm3tEJCWilXoWXEGytF_pr7pE/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
 
+
+## Ciclo 3: Timelog y Defectlog del sistema.
+* **Scripts general**: [Timelog y Defectlog](https://docs.google.com/spreadsheets/d/1GlicRxNC1fJEl_RDkhwZf9oBmx_uO73Z/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
+* **Script grupal**: [Timelog y Defectlog](https://docs.google.com/spreadsheets/d/1hWbxAlymRXqjqXBUOX3mlR4aJVNtFATCKl4-E4fMpWc/edit?usp=sharing) 
+
 ***
 
 ### Wiki de Oficina PMO Equipo 1. TC3004B.
