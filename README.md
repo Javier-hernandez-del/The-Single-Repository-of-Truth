@@ -23,8 +23,9 @@ Wiki de Oficina PMO Equipo 1. TC3005B-Módulo 5: Calidad de Software.
 
 
 ## Ciclo 3: Timelog y Defectlog del sistema.
-* **Scripts general**: [Timelog y Defectlog](https://docs.google.com/spreadsheets/d/1GlicRxNC1fJEl_RDkhwZf9oBmx_uO73Z/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
+* **Scripts generales**: [Timelog y Defectlog](https://docs.google.com/spreadsheets/d/1GlicRxNC1fJEl_RDkhwZf9oBmx_uO73Z/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
 * **Script grupal**: [Timelog y Defectlog](https://docs.google.com/spreadsheets/d/1hWbxAlymRXqjqXBUOX3mlR4aJVNtFATCKl4-E4fMpWc/edit?usp=sharing) 
+* **Mediciones TSP**: [TSP]()
 
 ***
 
