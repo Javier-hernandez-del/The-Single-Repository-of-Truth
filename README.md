@@ -27,6 +27,7 @@ Wiki de Oficina PMO Equipo 1. TC3005B-Módulo 5: Calidad de Software.
 * **Script grupal**: [TimelogYDefectlogFinalGrupal_Front2](https://docs.google.com/spreadsheets/d/1hWbxAlymRXqjqXBUOX3mlR4aJVNtFATCKl4-E4fMpWc/edit?usp=sharing) 
 * **Mediciones TSP**: [MedicionesTSP_Front2](https://docs.google.com/spreadsheets/d/1SiEiSdp-p17C2QIx1Qa4ywef-AQ3l5bH/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
 * **Casos de Prueba**: [DiseñoCasosPrueba_Front2](https://docs.google.com/spreadsheets/d/1yHBKPKL-nCFozPkeQ5LqjFU-sQW_F6Hn/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
+* **Partición de equivalencia**: [TécnicaParticióndeEquivalencia_Front2](https://docs.google.com/document/d/1pmTE6wl3FpTFjwg6KdQe5On1A7GIdggoeFbJ0xUFQiA/edit?usp=sharing)
 
 ***
 
