@@ -25,16 +25,16 @@ Wiki de Oficina PMO Equipo 1 Front2. TC3005B-Módulo 5: Calidad de Software.
 ## Ciclo 3: Timelog y Defectlog del sistema.
 * **Scripts generales**: [TimelogYDefectlogFinalIndividual_Front2](https://docs.google.com/spreadsheets/d/1GlicRxNC1fJEl_RDkhwZf9oBmx_uO73Z/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
 * **Script grupal**: [TimelogYDefectlogFinalGrupal_Front2](https://docs.google.com/spreadsheets/d/1hWbxAlymRXqjqXBUOX3mlR4aJVNtFATCKl4-E4fMpWc/edit?usp=sharing) 
-* En los scripts individuales y el grupal se muestra el registro del Timelog y Defectlog de cada miembro del equipo en está última fase de desarrollo del sistema.
+* En los scripts individuales y el grupal se muestra el registro del Timelog y Defectlog de cada miembro del equipo en está última fase de desarrollo del sistema. (Se pueden encontrar los archivos para descargarlos desde el apartado de documentos con los nombres TimelogFinal, DefectlogFinal y Timelog y Defectlog_Front2).
 ***
 * **Mediciones TSP**: [MedicionesTSP_Front2](https://docs.google.com/spreadsheets/d/1l80_fU0ttHUKX5lLLuVeJP4gWM_e0ZLt/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
-* En este documento de mediciones TSP se muestra los resultados obtenidos del tiempo invertido y los defectos encontrados como equipo gracias al registro de los scripts C16 y C14 durante el desarrollo de esta fase del sistema.
+* En este documento de mediciones TSP se muestra los resultados obtenidos del tiempo invertido y los defectos encontrados como equipo gracias al registro de los scripts C16 y C14 durante el desarrollo de esta fase del sistema. ()
 ***
 * **Casos de Prueba**: [DiseñoCasosPrueba_Front2](https://docs.google.com/spreadsheets/d/1yHBKPKL-nCFozPkeQ5LqjFU-sQW_F6Hn/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
-* Este documento cuenta con la definición y registro de las diferentes páginas de front-end que a nosotros como equipo Front2 nos tocó revisar para que cumplieran con los requisitos esperados.
+* Este documento cuenta con la definición y registro de las diferentes páginas de front-end que a nosotros como equipo Front2 nos tocó revisar para que cumplieran con los requisitos esperados. (Se puede encontrar el archivo para descargar con el nombre DiseñoCasosPrueba_Front2).
 ***
 * **Partición de equivalencia**: [TécnicaParticióndeEquivalencia_Front2](https://docs.google.com/document/d/1pmTE6wl3FpTFjwg6KdQe5On1A7GIdggoeFbJ0xUFQiA/edit?usp=sharing)
-* De acuerdo al desarrollo del documento de casos de prueba, en este documento de partición de equivalencia se definieron situaciones diversas que podrian ocurrir en las diferentes páginas a modo de la definición de casos de prueba que a nuestro equipo Front2 nos toco revisar.
+* De acuerdo al desarrollo del documento de casos de prueba, en este documento de partición de equivalencia se definieron situaciones diversas que podrian ocurrir en las diferentes páginas a modo de la definición de casos de prueba que a nuestro equipo Front2 nos toco revisar. (Se puede encontrar el archivo para descargar con el nombre TécnicaParticióndeEquivalencia_Front2).
 
 ***
 
