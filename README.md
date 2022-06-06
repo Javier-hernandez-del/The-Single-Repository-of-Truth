@@ -28,13 +28,13 @@ Wiki de Oficina PMO Equipo 1 Front2. TC3005B-Módulo 5: Calidad de Software.
 * En los scripts individuales y el grupal se muestra el registro del Timelog y Defectlog de cada miembro del equipo en está última fase de desarrollo del sistema.
 ***
 * **Mediciones TSP**: [MedicionesTSP_Front2](https://docs.google.com/spreadsheets/d/1SiEiSdp-p17C2QIx1Qa4ywef-AQ3l5bH/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
-* En este documento de mediciones TSP se muestra los resultados obtenidos como equipo en el registro de los scripts C16 y C14 con los errores y defectos encontrados durante el desarrollo de esta fase del sistema.
+* En este documento de mediciones TSP se muestra los resultados obtenidos del tiempo invertido y los defectos encontrados como equipo gracias al registro de los scripts C16 y C14 durante el desarrollo de esta fase del sistema.
 ***
 * **Casos de Prueba**: [DiseñoCasosPrueba_Front2](https://docs.google.com/spreadsheets/d/1yHBKPKL-nCFozPkeQ5LqjFU-sQW_F6Hn/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
 * Este documento cuenta con la definición y registro de las diferentes páginas de front-end que a nosotros como equipo Front2 nos tocó revisar para que cumplieran con los requisitos esperados.
 ***
 * **Partición de equivalencia**: [TécnicaParticióndeEquivalencia_Front2](https://docs.google.com/document/d/1pmTE6wl3FpTFjwg6KdQe5On1A7GIdggoeFbJ0xUFQiA/edit?usp=sharing)
-* De acuerdo al desarrollo del documento de casos de prueba, en este documento de partición de equivalencia se definieron situaciones diversas que podrian ocurrir en las diferentes páginas que a nuestro equipo Front2 nos toco revisar.
+* De acuerdo al desarrollo del documento de casos de prueba, en este documento de partición de equivalencia se definieron situaciones diversas que podrian ocurrir en las diferentes páginas a modo de la definición de casos de prueba que a nuestro equipo Front2 nos toco revisar.
 
 ***
 
