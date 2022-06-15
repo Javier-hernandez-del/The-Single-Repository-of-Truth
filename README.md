@@ -41,6 +41,7 @@ Wiki de Oficina PMO Equipo 1 Front2. TC3005B-Módulo 5: Calidad de Software.
 * **Métricas del Timelog y Defectlog**: [Timelog y Defectlog_Métricas_Front2](https://docs.google.com/spreadsheets/d/1hWbxAlymRXqjqXBUOX3mlR4aJVNtFATCKl4-E4fMpWc/edit?usp=sharing)
 * **Colecta de datos grupal**: [Grupo 562](https://docs.google.com/spreadsheets/d/1jK87zfKR2ewyKi-qRnY_RMRhIkSg5TW3/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
 * **Métricas del diseño de Casos de Prueba**: [DiseñoCasosPruebaMétricas_Front2](https://docs.google.com/spreadsheets/d/1yHBKPKL-nCFozPkeQ5LqjFU-sQW_F6Hn/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
+* **Métricas de casos de prueba grupales**: [Grupo562](https://docs.google.com/spreadsheets/d/1D8o4jxyB2gm2apHw0arcf2Ywr6-o70xC/edit?usp=sharing&ouid=100502222909545424991&rtpof=true&sd=true)
 
 ***
 
